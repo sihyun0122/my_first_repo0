@@ -1,3 +1,3 @@
 import streamlit as st
-st. title('이연성돼지아님!')
-st.write('💕💋')
+st. title('집가고싶다!')
+st.write('❤❤❤❤❤❤❤❤❤❤❤💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💋💋💋💋💋💋💋💋💋💋💋💋💋💋💋💋😢💖💖💖💖💖💖💖')
